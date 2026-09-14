@@ -3,8 +3,8 @@ const schedule = [
   { day: 'Terça-feira', time: '14h', activities: ['Tardes de Reflexão e Estudo do Evangelho.', 'Passe coletivo.', 'Passe de tratamento.', 'Atendimento Fraterno.', 'Atendimento Psicoespiritual — agendado.', 'Cadastro para cestas básicas.', 'Preparação das Quentinhas da Prece.'], scheduled: ['Atendimento Psicoespiritual — agendado.'] },
   { day: 'Quarta-feira', time: '19h30', activities: ['Palestra.', 'Passe coletivo.', 'Passe de tratamento.', 'Estudo do Evangelho Infantojuvenil.', 'Atendimento Fraterno.', 'Tratamento Espiritual.'] },
   { day: 'Quinta-feira', time: '19h30', activities: ['Medicina Espiritual — agendada.', 'Terapia Vibracional — agendada.'], scheduled: ['Medicina Espiritual — agendada.', 'Terapia Vibracional — agendada.'] },
-  { day: 'Sábado', time: 'Bazar em datas pré-fixadas', activities: ['Bazar beneficente.', 'Datas divulgadas nas redes sociais.', 'Horário não informado.'], note: 'Não acontece necessariamente todos os sábados.' },
-  { day: 'Domingo', time: '16h30', activities: ['Grupo de Estudo Iluminando Consciências.', 'Obra estudada: “Missionários da Luz”.'] },
+  { day: 'Sábado', time: '10h às 16h', activities: ['Bazar beneficente.', 'Datas pré-fixadas, divulgadas nas redes sociais.'], note: 'Não acontece necessariamente todos os sábados.' },
+  { day: 'Domingo', time: '16h30', activities: ['Grupo de Estudo Iluminando Consciências.', 'Obra estudada: “Missionários da Luz”, de André Luiz.'] },
   { day: 'Domingo', time: '21h', activities: ['Live do Evangelho na página do Facebook.', 'Página: grupoespiritacasadaprece.'], online: true }
 ];
 
